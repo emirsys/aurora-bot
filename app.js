@@ -13,13 +13,7 @@ client.on('message', message => {
 
 client.on('message', msg => {
   if (msg.content === 'yapımcı') {
-    msg.reply('Emir ==> https://www.instagram.com/kediisgold/');
-  }
-});
-
-client.on('message', msg => {
-  if (msg.content === 'kurucu') {
-    msg.reply('arasbilgebey ==> https://www.instagram.com/arasbilgebey/');
+    msg.reply('Emir ==> https://www.instagram.com/h4xfe/');
   }
 });
 
@@ -43,19 +37,19 @@ client.on('message', msg => {
 
 client.on('message', msg => {
   if (msg.content === 'sunucu') {
-    msg.reply('Bizim Sunucumuza Gelmek isterseniz  buyrun https://discord.gg/RudKgTb ');
+    msg.reply('Bizim Sunucumuza Gelmek isterseniz  buyrun https://discord.gg/ ');
   }
 });
 
 client.on('message', msg => {
   if (msg.content === 'destek') {
-    msg.reply('Teknik destek için sunucumuza gelebilirsiniz https://discord.gg/RudKgTb ');
+    msg.reply('Teknik destek için sunucumuza gelebilirsiniz https://discord.gg/ ');
   }
 });
 
 client.on('message', msg => {
   if (msg.content === 'Destek') {
-    msg.reply('Teknik destek için sunucumuza gelebilirsiniz https://discord.gg/RudKgTb ');
+    msg.reply('Teknik destek için sunucumuza gelebilirsiniz https://discord.gg/ ');
   }
 });
 
